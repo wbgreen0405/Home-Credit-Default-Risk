@@ -1,4 +1,4 @@
-
+![homecredit](https://github.com/MinuteswithMetrics/Home-Credit-Default-Risk/blob/master/homecredit.jpg)
 
 # Home Credit Default Risk
 
