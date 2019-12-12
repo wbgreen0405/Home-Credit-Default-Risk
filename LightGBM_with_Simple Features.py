@@ -1,5 +1,5 @@
 
-```
+
 # HOME CREDIT DEFAULT RISK COMPETITION
 # Most features are created by applying min, max, mean, sum and var functions to grouped tables. 
 # Little feature selection is done and overfitting might be a problem since many features are related.
@@ -360,4 +360,4 @@ if __name__ == "__main__":
     submission_file_name = "submission_kernel02.csv"
     with timer("Full model run"):
         main()
-  ```
+
