@@ -9,7 +9,7 @@
 Many people struggle to get loans due to insufficient or non-existent credit histories. [Home Credit](http://www.homecredit.net/) strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience, using alternative data to predict repayment abilities.
 
 - [Kaggle Competition Page](https://www.kaggle.com/competitions/home-credit-default-risk/overview)
-- Dates participated: **[Fill in]**
+- Dates participated: **7 years ago**
 
 ## 🏅 Awards
 
